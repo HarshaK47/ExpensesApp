@@ -1,4 +1,7 @@
-# first_app
+# Expenses App
+<img src="https://github.com/HarshaK47/ExpensesApp/blob/master/image_expensesApp.jpeg" height="420" width="200">
+
+
 
 A new Flutter project.
 
